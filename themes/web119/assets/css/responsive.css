@@ -1,0 +1,68 @@
+@media (min-width: 768px){
+   
+	/*HOVER DROPDOWN IN TABLET & DESKTOP*/
+	li.dropdown:hover>a {
+	}
+	li.dropdown:hover>.dropdown-menu {
+	    display: block;
+	}
+	
+}
+@media (min-width: 992px){
+	
+
+}
+@media (min-width: 1200px){
+	.container { width: 980px; }
+
+} 
+@media (max-width: 990px){
+	.art-sidebar {
+		padding-right: 0;
+		border-right: 0;
+	}
+	.footer-social { text-align: left; margin-top: 15px; }
+	.icon-social {margin-top: 10px; text-align: left; }
+	.header-main{ padding-bottom: 20px;    background-position: 0px -40px;}
+	.mobile_logo img{ max-height: 80px; }
+}
+
+@media (max-width: 1200px){
+	.head-right h4,
+	.head-right h3 { padding-left: 10%; }
+	.navbar-nav>li>a { padding: 0 15px; }
+}
+@media (max-width: 768px){
+	.list-news h3 { font-size: 22px; }
+	.section-slider { margin-bottom: 20px;overflow: hidden;}
+	.section-services .col-sm-3,
+	.section-about .item { margin-bottom: 30px; }
+
+}
+@media (max-width: 480px){
+	.service-container .btn { margin-bottom: 15px; }
+	.list-news .item { margin-bottom: 30px; }
+	.section-about { margin-top: 10px; }
+	
+}
+
+/*
+     FILE ARCHIVED ON 04:33:52 May 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:56:30 Nov 21, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.937
+  exclusion.robots: 0.059
+  exclusion.robots.policy: 0.044
+  esindex: 0.014
+  cdx.remote: 13.462
+  LoadShardBlock: 336.473 (3)
+  PetaboxLoader3.datanode: 102.368 (4)
+  PetaboxLoader3.resolve: 299.8 (3)
+  load_resource: 143.38
+*/
